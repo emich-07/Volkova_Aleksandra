@@ -91,10 +91,3 @@ function drawGame() {
 }
 
 let game = setInterval(drawGame, 100);
-
-
-
-
-
-
-//
